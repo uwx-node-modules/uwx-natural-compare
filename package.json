@@ -1,0 +1,19 @@
+{
+  "name": "naturalsort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uwx/node-naturalsort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uwx/node-naturalsort/issues"
+  },
+  "homepage": "https://github.com/uwx/node-naturalsort#readme"
+}
